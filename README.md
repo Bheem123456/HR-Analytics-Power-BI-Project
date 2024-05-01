@@ -1,5 +1,5 @@
 # HR-Analytics-Power-BI-Project
-This project explores the utilization of HR analytics using Power BI, focusing on employee attendance patterns within Atliq, a fictional company. Leveraging the company's resources, a dataset comprising employee timesheets for April, May, and June of the year 2022 was obtained and analyzed.
+This project explores the utilization of HR analytics using Power BI, focusing on employee attendance patterns within Atliq, a  company in India. Leveraging the company's resources, a dataset comprising employee timesheets for April, May, and June of the year 2022 was obtained and analyzed.
 
 The project aims to provide insights into employee attendance dynamics by visualizing key metrics such as the percentage of attendance, work from home, and sick leave occurrences. Through interactive visualizations, stakeholders can delve into attendance trends, identify patterns, and make data-driven decisions to optimize workforce management.
 
