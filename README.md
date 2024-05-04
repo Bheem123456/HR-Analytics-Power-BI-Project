@@ -7,5 +7,6 @@ The analysis includes examining the distribution of leave days across different 
 
 Overall, this project demonstrates the power of HR analytics in understanding employee behavior and facilitating informed decision-making for enhanced organizational efficiency and employee satisfaction.
 
+<img src="https://github.com/bhemeshwaryeturi30/HR-Analytics-Power-BI-Project/blob/main/Dashboard.png" width="50%" height="50%">
 
-<img width="20000px" src="Dasboard.png" alt="Dasboard.png"/>
+
