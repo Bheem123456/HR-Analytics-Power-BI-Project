@@ -6,3 +6,6 @@ The project aims to provide insights into employee attendance dynamics by visual
 The analysis includes examining the distribution of leave days across different weekdays and segments of the month, allowing for the identification of potential trends and underlying reasons for leave occurrences. By comparing individual employee behaviors against aggregated data, managers can discern anomalies and proactively address attendance-related issues.
 
 Overall, this project demonstrates the power of HR analytics in understanding employee behavior and facilitating informed decision-making for enhanced organizational efficiency and employee satisfaction.
+
+
+<img width="20000px" src="Dasboard.png" alt="Dasboard.png" />
